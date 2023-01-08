@@ -1,0 +1,4 @@
+Hadoop is outdated now
+Spark is popular
+Hadoop is still very important to understand
+welcome to my repo
