@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg)
 
 # Open Terminal and execute the codes below
 
